@@ -1,8 +1,12 @@
 # Data-Science
 
 
-##### W3schools data science 
+##### W3schools data science (Python, NP basics, SCiPy, Pandas)
+##### Linear regression, train/test
+##### Polynomial Regression
+##### Multiple regression
 ##### Image proccessing from analytics vidhya
+##### 
 ##### NLP
 
 ##### ChatGPT Roadmap
