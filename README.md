@@ -1,11 +1,11 @@
 # Data-Science
 
 
-### W3schools data science course
-### Image proccessing from analytics vidhya
-### NLP
+##### W3schools data science course
+##### Image proccessing from analytics vidhya
+##### NLP
 
-#### ChatGPT Roadmap
+##### ChatGPT Roadmap
 
 Here's a possible roadmap for learning data science:
 
