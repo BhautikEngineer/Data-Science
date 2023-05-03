@@ -2,12 +2,13 @@
 
 
 ##### W3schools data science (Python, NP basics, SCiPy, Pandas)
-##### Linear regression
-##### train/test 
-##### Polynomial Regression
-##### Multiple regression
+##### Linear regression using Sklearn
+##### train/test from w3schools
+##### Polynomial Regression using Sklearn
+##### Multiple regression using Sklearn
 ##### Image proccessing from analytics vidhya
 ##### 
+#####
 ##### NLP
 
 ##### ChatGPT Roadmap
