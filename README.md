@@ -2,7 +2,8 @@
 
 
 ##### W3schools data science (Python, NP basics, SCiPy, Pandas)
-##### Linear regression, train/test
+##### Linear regression
+##### train/test 
 ##### Polynomial Regression
 ##### Multiple regression
 ##### Image proccessing from analytics vidhya
