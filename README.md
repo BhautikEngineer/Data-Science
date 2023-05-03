@@ -7,7 +7,7 @@
 
 ##### ChatGPT Roadmap
 
-Here's a possible roadmap for learning data science:
+### Here's a possible roadmap for learning data science:
 
 1. Math and Statistics
 
@@ -62,6 +62,8 @@ Reinforcement Learning
 Bayesian Methods
 
 
+
+### ML from ChatGPT
 
 Sure! Here's a day-wise learning schedule for learning ML with Python:
 
