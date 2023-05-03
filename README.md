@@ -7,8 +7,8 @@
 ##### Polynomial Regression using Sklearn
 ##### Multiple regression using Sklearn
 ##### Image proccessing from analytics vidhya
-##### 
-#####
+##### ImageAI
+##### Neural Networks, Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs)
 ##### NLP
 
 ##### ChatGPT Roadmap
