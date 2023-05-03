@@ -1,7 +1,7 @@
 # Data-Science
 
 
-##### W3schools data science course
+##### W3schools data science 
 ##### Image proccessing from analytics vidhya
 ##### NLP
 
