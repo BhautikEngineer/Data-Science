@@ -3,6 +3,7 @@
 
 ### W3schools data science course
 ### Image proccessing from analytics vidhya
+### NLP
 
 #### ChatGPT Roadmap
 
