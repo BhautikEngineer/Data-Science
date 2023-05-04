@@ -1,12 +1,12 @@
 # Data-Science
 
 
-##### W3schools data science (Python, NP basics, SCiPy, Pandas)
+##### W3schools data science (Python, NP basics, SCiPy, Pandas, Matplotlib Seaborn)
 ##### Linear regression using Sklearn
 ##### train/test from w3schools
 ##### Polynomial Regression using Sklearn
 ##### Multiple regression using Sklearn
-##### Image proccessing from analytics vidhya
+##### Image proccessing using numpy from analytics vidhya
 ##### ImageAI
 ##### Neural Networks, Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs)
 ##### NLP
