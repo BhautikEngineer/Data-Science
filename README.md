@@ -8,6 +8,7 @@
 ##### Multiple regression using Sklearn
 ##### Image proccessing using numpy from analytics vidhya
 ##### ImageAI
+##### Yahoo Finance
 ##### Neural Networks, Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs)
 ##### NLP
 
