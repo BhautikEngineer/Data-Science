@@ -8,7 +8,7 @@
 ##### Multiple regression using Sklearn
 ##### Image proccessing using numpy from analytics vidhya
 ##### ImageAI
-##### Yahoo Finance
+##### Yahoo Finance(% from all time high for nifty and 2nd task for 10 stocks)
 ##### Neural Networks, Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs)
 ##### NLP
 
