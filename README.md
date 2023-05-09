@@ -75,7 +75,7 @@ Bayesian Methods
 
 Sure! Here's a day-wise learning schedule for learning ML with Python:
 
-Day 1
+#### Day 1
 
 Introduction to Machine Learning
 
@@ -86,7 +86,7 @@ Applications of Machine Learning
 Python Libraries for Machine Learning (NumPy, Pandas, Scikit-Learn)
 
 
-Day 2
+#### Day 2
 
 Data Collection
 
@@ -101,7 +101,7 @@ Feature Selection
 Feature Engineering
 
 
-Day 3
+#### Day 3
 
 Linear Regression
 
@@ -113,7 +113,7 @@ Model Evaluation Metrics
 
 
 
-Day 4
+#### Day 4
 
 Classification
 
@@ -124,7 +124,7 @@ Decision Trees
 Naive Bayes
 
 
-Day 5
+#### Day 5
 
 Random Forests
 
@@ -135,7 +135,7 @@ Model Selection and Evaluation
 Cross-Validation
 
 
-Day 6
+#### Day 6
 
 Clustering
 
@@ -144,7 +144,7 @@ K-Means
 Hierarchical Clustering
 
 
-Day 7
+#### Day 7
 
 Neural Networks
 
@@ -153,7 +153,7 @@ Feedforward Neural Networks
 Convolutional Neural Networks
 
 
-Day 8
+#### Day 8
 
 Recurrent Neural Networks
 
@@ -162,7 +162,7 @@ Model Tuning and Optimization
 Hyperparameter Tuning
 
 
-Day 9
+#### Day 9
 
 Deep Learning
 
@@ -171,7 +171,7 @@ Building Deep Learning Models
 Training and Tuning Deep Learning Models
 
 
-Day 10
+#### Day 10
 
 Natural Language Processing
 
@@ -181,7 +181,7 @@ Text Classification
 
 Text Clustering
 
-Day 11
+#### Day 11
 
 Time Series Analysis
 
@@ -192,7 +192,7 @@ Stationarity and Differencing
 ARIMA Models
 
 
-Day 12
+#### Day 12
 
 LSTM Models
 
