@@ -89,81 +89,113 @@ Python Libraries for Machine Learning (NumPy, Pandas, Scikit-Learn)
 Day 2
 
 Data Collection
+
 Data Preprocessing
+
 Data Cleaning
+
 Data Transformation
+
 Feature Selection
+
 Feature Engineering
 
 
 Day 3
 
 Linear Regression
+
 Polynomial Regression
+
 Multiple Regression
+
 Model Evaluation Metrics
+
 
 
 Day 4
 
 Classification
+
 K-Nearest Neighbors
+
 Decision Trees
+
 Naive Bayes
 
 
 Day 5
 
 Random Forests
+
 Support Vector Machines
+
 Model Selection and Evaluation
+
 Cross-Validation
 
 
 Day 6
 
 Clustering
+
 K-Means
+
 Hierarchical Clustering
 
 
 Day 7
 
 Neural Networks
+
 Feedforward Neural Networks
+
 Convolutional Neural Networks
 
 
 Day 8
 
 Recurrent Neural Networks
+
 Model Tuning and Optimization
+
 Hyperparameter Tuning
 
 
 Day 9
 
 Deep Learning
+
 Building Deep Learning Models
+
 Training and Tuning Deep Learning Models
 
 
 Day 10
 
 Natural Language Processing
+
 Text Preprocessing
+
 Text Classification
+
 Text Clustering
+
 Day 11
 
 Time Series Analysis
+
 Time Series Data
+
 Stationarity and Differencing
+
 ARIMA Models
 
 
 Day 12
 
 LSTM Models
+
 Real-life Project Implementation
+
 Final Project Presentation
