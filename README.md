@@ -78,8 +78,11 @@ Sure! Here's a day-wise learning schedule for learning ML with Python:
 Day 1
 
 Introduction to Machine Learning
+
 Types of Machine Learning
+
 Applications of Machine Learning
+
 Python Libraries for Machine Learning (NumPy, Pandas, Scikit-Learn)
 
 
