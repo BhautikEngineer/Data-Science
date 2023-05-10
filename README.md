@@ -10,7 +10,9 @@
 ##### ImageAI
 ##### Yahoo Finance(% from all time high for nifty and 2nd task for 10 stocks)
 #####  Baisc SQL
-##### Neural Networks, Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs)
+##### Neural Networks
+##### Keras 
+##### Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs)
 ##### NLP
 
 ##### ChatGPT Roadmap
