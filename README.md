@@ -19,7 +19,7 @@
 
 1. Math and Statistics
 
-Linear Algebra: Vectors, Matrices, Tensors
+ *  Linear Algebra: Vectors, Matrices, Tensors
 Calculus: Differentiation, Integration
 Probability Theory: Bayes' theorem, Random Variables, Probability Distributions, Hypothesis Testing
 
