@@ -26,48 +26,49 @@
 
 2. Programming
 
-Python: Basic Data Types, Control Structures, Functions, OOP, Libraries (NumPy, Pandas, Matplotlib, Scikit-Learn)
-SQL: Basic Queries, Joins, Aggregations
+  *   Python: Basic Data Types, Control Structures, Functions, OOP, Libraries (NumPy, Pandas, Matplotlib, Scikit-Learn)
+  *   SQL: Basic Queries, Joins, Aggregations
 
 
 3. Data Acquisition
 
-Web Scraping: Beautiful Soup, Selenium
-APIs: Requests, JSON, OAuth
+  *   Web Scraping: Beautiful Soup, Selenium
+  *   APIs: Requests, JSON, OAuth
 
 
 4. Data Wrangling
 
-Data Cleaning: Handling Missing Data, Duplicates, Outliers
-Data Transformation: Reshaping, Aggregating, Merging, Pivoting
+  *   Data Cleaning: Handling Missing Data, Duplicates, Outliers
+  *   Data Transformation: Reshaping, Aggregating, Merging, Pivoting
 
 
 5. Exploratory Data Analysis
 
-Data Visualization: Matplotlib, Seaborn
-Descriptive Statistics: Central Tendency, Dispersion, Correlation
-Inferential Statistics: Confidence Intervals, Hypothesis Testing, p-values
+  *   Data Visualization: Matplotlib, Seaborn
+  *   Descriptive Statistics: Central Tendency, Dispersion, Correlation
+  *   Inferential Statistics: Confidence Intervals, Hypothesis Testing, p-values
 
 
 6. Machine Learning
 
-Supervised Learning: Regression, Classification
-Unsupervised Learning: Clustering, Dimensionality Reduction
-Deep Learning: Neural Networks, Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs)
-Model Selection and Evaluation: Cross-Validation, Bias-Variance Tradeoff, Metrics (Accuracy, Precision, Recall, F1-Score)
+  *   Supervised Learning: Regression, Classification
+  *   Unsupervised Learning: Clustering, Dimensionality Reduction
+  *   Deep Learning: Neural Networks, Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs)
+  *   Model Selection and Evaluation: Cross-Validation, Bias-Variance Tradeoff, Metrics (Accuracy, Precision, Recall, F1-Score)
 
 
 7. Deployment
 
-Cloud Services: AWS, Azure, Google Cloud
-Web Frameworks: Flask, Django
-Data Visualization Tools: Tableau, Power BI
+  *   Cloud Services: AWS, Azure, Google Cloud
+  *   Web Frameworks: Flask, Django
+  *   Data Visualization Tools: Tableau, Power BI
+
 8. Advanced Topics
 
-Natural Language Processing (NLP)
-Time Series Analysis
-Reinforcement Learning
-Bayesian Methods
+  *   Natural Language Processing (NLP)
+  *   Time Series Analysis
+  *   Reinforcement Learning
+  *   Bayesian Methods
 
 
 
@@ -77,125 +78,125 @@ Sure! Here's a day-wise learning schedule for learning ML with Python:
 
 #### Day 1
 
-Introduction to Machine Learning
+  *   Introduction to Machine Learning
 
-Types of Machine Learning
+  *   Types of Machine Learning
 
-Applications of Machine Learning
+  *   Applications of Machine Learning
 
-Python Libraries for Machine Learning (NumPy, Pandas, Scikit-Learn)
+  *   Python Libraries for Machine Learning (NumPy, Pandas, Scikit-Learn)
 
 
 #### Day 2
 
-Data Collection
+  *   Data Collection
 
-Data Preprocessing
+  *   Data Preprocessing
 
-Data Cleaning
+  *   Data Cleaning
 
-Data Transformation
+  *   Data Transformation
 
-Feature Selection
+  *   Feature Selection
 
-Feature Engineering
+  *   Feature Engineering
 
 
 #### Day 3
 
-Linear Regression
+  *   Linear Regression
 
-Polynomial Regression
+  *   Polynomial Regression
 
-Multiple Regression
+  *   Multiple Regression
 
-Model Evaluation Metrics
+  *   Model Evaluation Metrics
 
 
 
 #### Day 4
 
-Classification
+  *   Classification
 
-K-Nearest Neighbors
+  *   K-Nearest Neighbors
 
-Decision Trees
+  *   Decision Trees
 
-Naive Bayes
+  *   Naive Bayes
 
 
 #### Day 5
 
-Random Forests
+  *   Random Forests
 
-Support Vector Machines
+  *   Support Vector Machines
 
-Model Selection and Evaluation
+  *   Model Selection and Evaluation
 
-Cross-Validation
+  *   Cross-Validation
 
 
 #### Day 6
 
-Clustering
+  *   Clustering
 
-K-Means
+  *   K-Means
 
-Hierarchical Clustering
+  *   Hierarchical Clustering
 
 
 #### Day 7
 
-Neural Networks
+  *   Neural Networks
 
-Feedforward Neural Networks
+  *   Feedforward Neural Networks
 
-Convolutional Neural Networks
+  *   Convolutional Neural Networks
 
 
 #### Day 8
 
-Recurrent Neural Networks
+  *   Recurrent Neural Networks
 
-Model Tuning and Optimization
+  *   Model Tuning and Optimization
 
-Hyperparameter Tuning
+  *   Hyperparameter Tuning
 
 
 #### Day 9
 
-Deep Learning
+  *   Deep Learning
 
-Building Deep Learning Models
+  *   Building Deep Learning Models
 
-Training and Tuning Deep Learning Models
+  *   Training and Tuning Deep Learning Models
 
 
 #### Day 10
 
-Natural Language Processing
+  *   Natural Language Processing
 
-Text Preprocessing
+  *   Text Preprocessing
 
-Text Classification
+  *   Text Classification
 
-Text Clustering
+  *   Text Clustering
 
 #### Day 11
 
-Time Series Analysis
+  *   Time Series Analysis
 
-Time Series Data
+  *   Time Series Data
 
-Stationarity and Differencing
+  *   Stationarity and Differencing
 
-ARIMA Models
+  *   ARIMA Models
 
 
 #### Day 12
 
-LSTM Models
+  *   LSTM Models
 
-Real-life Project Implementation
+  *   Real-life Project Implementation
 
-Final Project Presentation
+  *   Final Project Presentation
