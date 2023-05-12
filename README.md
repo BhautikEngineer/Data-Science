@@ -202,3 +202,29 @@ Sure! Here's a day-wise learning schedule for learning ML with Python:
   *   Real-life Project Implementation
 
   *   Final Project Presentation
+
+
+
+DL python learning order by ChatGPT
+
+
+
+1. Python Fundamentals: Before diving into deep learning, you'll need a solid foundation in Python programming. Start with the basics of the language, including data types, functions, loops, and control structures.
+
+2. NumPy: NumPy is a powerful numerical computing library in Python that provides support for arrays and matrices. It is widely used in the scientific computing and data science communities. Learn how to work with arrays and matrices in NumPy, and understand basic linear algebra operations.
+
+3. Pandas: Pandas is a popular data manipulation library that provides easy-to-use data structures and tools for data analysis. Learn how to load, manipulate, and analyze data using Pandas.
+
+4. Matplotlib: Matplotlib is a plotting library in Python that allows you to create various types of visualizations. Learn how to create line charts, scatter plots, bar charts, histograms, and more using Matplotlib.
+
+5. Keras: Keras is a high-level deep learning library that makes it easy to build neural networks. Start with the basics of Keras, including how to define a model, compile it, and train it on data.
+
+6. TensorFlow: TensorFlow is a popular deep learning library developed by Google. Learn how to use TensorFlow to define and train deep neural networks.
+
+7. Convolutional Neural Networks: Convolutional Neural Networks (CNNs) are a type of neural network that are particularly good at image recognition tasks. Learn how to build and train CNNs using Keras and TensorFlow.
+
+8. Recurrent Neural Networks: Recurrent Neural Networks (RNNs) are a type of neural network that are particularly good at processing sequential data, such as text or time series data. Learn how to build and train RNNs using Keras and TensorFlow.
+
+9. Generative Adversarial Networks: Generative Adversarial Networks (GANs) are a type of neural network that can generate new data that is similar to a training dataset. Learn how to build and train GANs using Keras and TensorFlow.
+
+10. Transfer Learning: Transfer Learning is a technique that allows you to take a pre-trained neural network and fine-tune it for a new task. Learn how to use transfer learning to build powerful models with less data.
