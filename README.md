@@ -12,7 +12,7 @@
 #####  Baisc SQL
 ##### Neural Networks
 ##### Keras 
-##### Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs)
+##### Convolutional Neural Networks (CNNs), Real time object detection using laptop camera
 ##### NLP
 
 ##### ChatGPT Roadmap
