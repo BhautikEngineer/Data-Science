@@ -12,7 +12,9 @@
 #####  Baisc SQL
 ##### Neural Networks
 ##### Keras 
-##### Convolutional Neural Networks (CNNs)(VGG 16), Handwritten Digit identifier, Flower classification,  Real time object detection using laptop camera
+##### Convolutional Neural Networks (CNNs)(VGG 16), 
+##### Image recognition by 1.imageAI 2.opencv 
+##### Handwritten Digit identifier, Flower classification,  Real time object detection using laptop camera
 ##### NLP
 
 ##### ChatGPT Roadmap
