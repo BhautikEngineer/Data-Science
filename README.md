@@ -15,6 +15,8 @@
 ##### Convolutional Neural Networks (CNNs)(VGG 16), 
 ##### Image recognition by 1.imageAI 2.opencv 
 ##### Handwritten Digit identifier, Flower classification,  Real time object detection using laptop camera
+
+##### Generative AI(GAN)
 ##### NLP
 
 ##### ChatGPT Roadmap
