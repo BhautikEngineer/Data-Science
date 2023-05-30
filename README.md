@@ -18,7 +18,7 @@
 
 ##### Generative AI(GAN)
 ##### NLP
-
+##### Sagemaker by AWS and Generative AI Studio by Google 
 ##### ChatGPT Roadmap
 
 ### Here's a possible roadmap for learning data science:
