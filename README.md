@@ -229,6 +229,10 @@ DL python learning order by ChatGPT
 
 8. Recurrent Neural Networks: Recurrent Neural Networks (RNNs) are a type of neural network that are particularly good at processing sequential data, such as text or time series data. Learn how to build and train RNNs using Keras and TensorFlow.
 
+exercise based on Numpy 
+make a array based on range of given number odd numbers array, even numbers array and for loops based tasks.
+
+
 9. Generative Adversarial Networks: Generative Adversarial Networks (GANs) are a type of neural network that can generate new data that is similar to a training dataset. Learn how to build and train GANs using Keras and TensorFlow.
 
 10. Transfer Learning: Transfer Learning is a technique that allows you to take a pre-trained neural network and fine-tune it for a new task. Learn how to use transfer learning to build powerful models with less data.
